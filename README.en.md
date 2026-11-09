@@ -59,6 +59,13 @@ Designed for everyday business questions, metric interpretation, and small-scale
 - [View releases and downloads](https://github.com/QiXinZhiGuang/OntoRatio/releases)
 - [Share feedback or report an issue](https://github.com/QiXinZhiGuang/OntoRatio/issues)
 
+## Our Philosophy
+
+- **People who know the business should be the ones using the data:** You understand the business better than anyone, yet the data always takes a detour: export it first, paste it into Excel, add formulas and pivot tables, then spend meeting prep reconciling numbers that never quite match—and when someone new takes over, they start from scratch all over again. Once the table grows, Excel locks up. To save trouble you wait in the data team's queue—and if the wait is too long, many people simply set analysis aside. AI is freeing people from repetitive work; RATIO goes one step further—so that you, with your understanding of the business, can mine knowledge from data, uncover insights that truly matter, and build something new on top of them.
+- **Business knowledge deserves to be captured and kept:** An ontology is, in essence, your business model projected into the digital world; the process of it taking shape is also your enterprise's digital twin slowly settling into place. It is more than a foundation for automation and intelligence—it is among your business's most valuable "metaverse" assets. Even someone who just joined can use it to quickly understand how the whole business works, and become part of the team sooner.
+- **An ontology is "grown", not "built":** There is no need to aim for something big and complete from day one. Take one real business need at a time, get just enough each round, and the projection takes shape naturally.
+- **Only by building together can we share together:** Just as we open-sourced the AOL definition, an ontology is never the work of one person or one team—it takes everyone in the company, building and using it together. That is the core design principle behind RATIO: "build together, share together."
+
 **Commercial edition:** Adds online ontology sharing and version management, more accurate retrieval, enterprise-scale storage, and more precise AI-assisted ontology creation and updates. Learn more at [qxzg-ai.com](https://qxzg-ai.com).
 
 ## Development & Community
