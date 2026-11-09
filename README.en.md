@@ -59,7 +59,7 @@ Designed for everyday business questions, metric interpretation, and small-scale
 - [View releases and downloads](https://github.com/QiXinZhiGuang/OntoRatio/releases)
 - [Share feedback or report an issue](https://github.com/QiXinZhiGuang/OntoRatio/issues)
 
-## Our Philosophy
+## RATIO Philosophy
 
 - **People who know the business should be the ones using the data:** You understand the business better than anyone, yet the data always takes a detour: export it first, paste it into Excel, add formulas and pivot tables, then spend meeting prep reconciling numbers that never quite match—and when someone new takes over, they start from scratch all over again. Once the table grows, Excel locks up. To save trouble you wait in the data team's queue—and if the wait is too long, many people simply set analysis aside. AI is freeing people from repetitive work; RATIO goes one step further—so that you, with your understanding of the business, can mine knowledge from data, uncover insights that truly matter, and build something new on top of them.
 - **Business knowledge deserves to be captured and kept:** An ontology is, in essence, your business model projected into the digital world; the process of it taking shape is also your enterprise's digital twin slowly settling into place. It is more than a foundation for automation and intelligence—it is among your business's most valuable "metaverse" assets. Even someone who just joined can use it to quickly understand how the whole business works, and become part of the team sooner.
