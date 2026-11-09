@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">ontoRatio app icon</title>
+  <rect width="120" height="120" fill="#FFFFFF"/>
+  <g fill="#1557D2">
+    <path d="M27 36h57a7 7 0 0 1 7 7v39L74 65V52H37v56h-10a7 7 0 0 1-7-7V43a7 7 0 0 1 7-7Z"/>
+    <path d="M47 74h17l27 27v3H66L47 85Z"/>
+  </g>
+</svg>

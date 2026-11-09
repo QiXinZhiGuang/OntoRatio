@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 60" width="190" height="60" role="img" aria-labelledby="title">
+  <title id="title">RATIO</title>
+  <g transform="translate(-11.6 -11.9) scale(.58)" fill="#1557D2">
+    <path d="M27 36h57a7 7 0 0 1 7 7v39L74 65V52H37v56h-10a7 7 0 0 1-7-7V43a7 7 0 0 1 7-7Z"/>
+    <path d="M47 74h17l27 27v3H66L47 85Z"/>
+  </g>
+  <text x="62" y="44" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">RATIO</text>
+</svg>
