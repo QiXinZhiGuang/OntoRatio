@@ -1,8 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 60" width="190" height="60" role="img" aria-labelledby="title">
-  <title id="title">RATIO</title>
-  <g transform="translate(-11.6 -11.9) scale(.58)" fill="#1557D2">
-    <path d="M27 36h57a7 7 0 0 1 7 7v39L74 65V52H37v56h-10a7 7 0 0 1-7-7V43a7 7 0 0 1 7-7Z"/>
-    <path d="M47 74h17l27 27v3H66L47 85Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 60" width="222" height="60" role="img" aria-labelledby="title">
+  <title id="title">RAISON</title>
+  <defs>
+    <linearGradient id="top-gradient" x1="50" y1="76" x2="252" y2="66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7B91FA"/>
+      <stop offset="0.48" stop-color="#599FFD"/>
+      <stop offset="1" stop-color="#2DB7FB"/>
+    </linearGradient>
+    <linearGradient id="left-gradient" x1="54" y1="133" x2="122" y2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9183F4"/>
+      <stop offset="0.52" stop-color="#9A80F6"/>
+      <stop offset="1" stop-color="#9D80F9"/>
+    </linearGradient>
+    <linearGradient id="right-gradient" x1="141" y1="149" x2="247" y2="237" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7790FC"/>
+      <stop offset="1" stop-color="#7D90FB"/>
+    </linearGradient>
+    <!-- QXZG 渐变色：紫 -> 蓝，呼应 logo 配色 -->
+    <linearGradient id="qxzg-gradient" x1="64" y1="6" x2="104" y2="17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9D80F9"/>
+      <stop offset="0.5" stop-color="#7B91FA"/>
+      <stop offset="1" stop-color="#2DB7FB"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Logo icon from logo.svg: scaled to ~52px tall, vertically centered in the 60px title -->
+  <g transform="translate(0, 4) scale(0.2476) translate(-42, -36)">
+    <!-- 顶部横笔 -->
+    <path d="M 57.8,45.4
+             H 245.7
+             C 249.9,45.4 252.0,48.0 252.0,52.2
+             C 251.9,81.7 241.7,103.4 220.2,116.7
+             C 198.5,130.3 178.5,126.4 159.1,117.4
+             C 139.2,108.4 119.8,98.3 100.5,94.1
+             C 85.1,90.7 70.9,91.0 57.5,92.0
+             C 53.4,92.3 51.1,90.2 51.1,86.6
+             V 51.8
+             C 51.1,47.5 53.3,45.4 57.8,45.4 Z"
+          fill="url(#top-gradient)"/>
+    <!-- 左侧竖笔 -->
+    <path d="M 58.1,129.8
+             H 71.0
+             C 89.3,129.8 105.8,140.8 116.3,159.1
+             C 124.2,172.5 127.2,185.2 127.2,199.4
+             V 230.8
+             C 127.2,235.4 125.0,237.0 120.9,237.0
+             H 57.6
+             C 53.3,237.0 51.0,234.9 51.0,230.8
+             V 136.8
+             C 51.0,132.2 53.3,129.8 58.1,129.8 Z"
+          fill="url(#left-gradient)"/>
+    <!-- 右侧斜笔 -->
+    <path d="M 137.5,151.6
+             H 198.2
+             C 204.4,151.6 207.8,154.0 211.2,159.6
+             L 254.7,229.1
+             C 257.6,234.2 255.7,237.1 251.6,237.1
+             H 192.8
+             C 189.1,237.1 186.8,235.9 184.9,232.7
+             L 136.2,155.2
+             C 135.1,153.4 135.5,151.6 137.5,151.6 Z"
+          fill="url(#right-gradient)"/>
   </g>
-  <text x="62" y="44" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">RATIO</text>
+
+  <text x="62" y="51" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">RAISON</text>
+  <text x="64" y="15" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="url(#qxzg-gradient)" letter-spacing="2">QXZG</text>
 </svg>
